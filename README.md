@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Clay-XD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; WELCOME TO MY PROFILE&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-<!---
-Clay-XD/Clay-XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Yusep-XD+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Maulana-XD</h1>
+
+<h3 align="center">From Indonesia</h3>
+</p>
+<h1 align="center">★ Kanjut ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+<a href="https://fb.com/XyouriCode New" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="XyouriCode New" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=markzuckerberg-kode&label=Profile%20views&color=0e75b6&style=flat" alt="markzuckerberg-kode" /> </p>
+
+
+## Don't forget to give a star 🌟
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Happy+Having fun....!+)
