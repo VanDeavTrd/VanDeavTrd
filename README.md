@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Maulana-XD</h1>
 
-<h3 align="center">From Indonesia</h3>
+<h3 align="center">From Indonesia Bandung Jawa Barat</h3>
 </p>
 <h1 align="center">★ Kanjut ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
