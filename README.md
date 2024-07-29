@@ -5,9 +5,9 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Maulana-XD+Jangan+Lupa+Follow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+BearEXzotic+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Maulana-XD</h1>
+<h1 align="center">Hi 👋, I'm BearEXzotic</h1>
 
 <h3 align="center">From Indonesia Bandung Jawa Barat</h3>
 </p>
